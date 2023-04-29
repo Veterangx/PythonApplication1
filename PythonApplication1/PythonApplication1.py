@@ -20,4 +20,6 @@ else: # n == 4
                     total_sum += int(str(i) + str(j) + str(k) + str(l))
 
 print(f"Сумма всех {n}-значных чисел равна {total_sum}.")
+ 
+    #If GxVeteran
 
