@@ -22,4 +22,5 @@ else: # n == 4
 print(f"Сумма всех {n}-значных чисел равна {total_sum}.")
  
     #If GxVeteran
+    #Д.А.А.
 
